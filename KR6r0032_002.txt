@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:00.155264
+#+DATE: 2015-08-30 22:15:03.416615
 #+TITLE: 阿育王經
 #+PROPERTY: CBETA_ID T50n2043
 #+PROPERTY: ID KR6r0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2043
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6r0032_T_002-0135b> ¶¶¶¶¶¶
+#+PROPERTY: WITNESS T@LI
+#+PROPERTY: LASTPB <pb:KR6r0032_T_002-0135b> ¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 阿育王經卷第二¶
+阿育王經卷第二¶
 ¶
 梁扶南三藏僧伽婆羅譯¶
 
-2見優波笈多因緣品
-:PROPERTIES:
-:head: 見優波笈多因緣品第二
-:END:
-¶
+見優波笈多因緣品第二¶
 
 爾時阿育王。起八萬四千舍利塔已生大歡¶
 喜。與諸大臣共往鷄寺。到已於上座前合掌¶
@@ -478,7 +473,7 @@
 時阿育王以十萬金供養菩提樹。及起塔已¶
 便去。優波笈多復白王言。此是佛受四天王¶
 四鉢合為一鉢處。又此處受二商主提謂波¶
-利所奉之食。佛從此處往波羅㮈國。時有¶
+利所奉之食。佛從此處往波羅[木*奈]國。時有¶
 外道名優波祇歎如來處。優波笈多復將阿
 <pb:KR6r0032_T_002-0138a>¶
 育王往仙面處舉手指言。此是世尊三轉十¶

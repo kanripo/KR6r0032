@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:00.119232
+#+DATE: 2015-08-30 22:15:03.381194
 #+TITLE: 阿育王經
 #+PROPERTY: CBETA_ID T50n2043
 #+PROPERTY: ID KR6r0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2043
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6r0032_T_001-0131b> 
 #+PROPERTY: JUAN 1
 ¶
-No.2043¶
-
- 阿育王經卷第一¶
+No. 2043¶
+阿育王經卷第一¶
 ¶
 梁扶南三藏僧伽婆羅譯¶
 
-1生因緣
-:PROPERTIES:
-:head: 生因緣第一
-:END:
-¶
+生因緣第一¶
 
 佛住王舍城竹林迦蘭陀精舍。於彼早起著¶
 衣持鉢。與比丘眾圍遶入王舍城乞食。是時¶
@@ -513,6 +508,5 @@ No.2043¶
 」¶
 阿育王經卷第一¶
 
-右梁天監十一年六月二十日扶南沙門¶
-僧伽婆羅於陽都壽光殿譯見寶唱錄¶
+右梁天監十一年六月二十日扶南沙門僧伽婆羅於陽都壽光殿譯見寶唱錄¶
 

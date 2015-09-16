@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:00.242729
+#+DATE: 2015-08-30 22:15:03.513233
 #+TITLE: 阿育王經
 #+PROPERTY: CBETA_ID T50n2043
 #+PROPERTY: ID KR6r0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2043
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6r0032_T_005-0147c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 阿育王經卷第五¶
+阿育王經卷第五¶
 ¶
 梁扶南三藏僧伽婆羅譯¶
 
-5半菴摩勒施僧因緣品
-:PROPERTIES:
-:head: 半菴摩勒施僧因緣品第五
-:END:
-¶
+半菴摩勒施僧因緣品第五¶
 
 爾時阿育王得堅固信問諸比丘。誰已能於¶
 佛法之中最大布施。諸比丘答言。孤獨長者¶
