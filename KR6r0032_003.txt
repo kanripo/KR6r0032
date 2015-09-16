@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:00.186613
+#+DATE: 2015-08-30 22:15:03.983517
 #+TITLE: 阿育王經
 #+PROPERTY: CBETA_ID T50n2043
 #+PROPERTY: ID KR6r0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2043
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6r0032_T_003-0139a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 阿育王經卷第三¶
+阿育王經卷第三¶
 ¶
 梁扶南三藏僧伽婆羅譯¶
 
-3供養菩提樹因緣品
-:PROPERTIES:
-:head: 供養菩提樹因緣品第三
-:END:
-¶
+供養菩提樹因緣品第三¶
 
 爾時阿育王。於佛生處得道轉法輪入般涅¶
 槃。於一一處。各以十萬金供養於菩提樹。倍生¶
@@ -366,11 +361,7 @@
 僧。復以無數金銀。贖此大地宮人大臣。并以¶
 末身及拘那羅。¶
 
-毘多輸柯因緣
-:PROPERTIES:
-:head: 毘多輸柯因緣
-:END:
-¶
+毘多輸柯因緣¶
 
 是時阿育王於佛法生大信心。起八萬四千¶
 塔已作五眾大會以飲食供養。有三十萬阿¶
@@ -603,7 +594,7 @@
 時阿育大臣名曰善護。見毘多輸柯著糞掃¶
 衣執持瓦鉢。次第乞食麁好俱受心無分別。¶
 見已白阿育王言。毘多輸柯少欲知足所作¶
-已辦王當生歡喜心。何以故。¶
+已辨王當生歡喜心。何以故。¶
 
 #+BEGIN_VERSE
 「　常行乞食

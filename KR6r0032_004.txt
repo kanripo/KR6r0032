@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:00.213792
+#+DATE: 2015-08-30 22:15:04.014804
 #+TITLE: 阿育王經
 #+PROPERTY: CBETA_ID T50n2043
 #+PROPERTY: ID KR6r0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2043
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6r0032_T_004-0144a> ¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 阿育王經卷第四¶
+阿育王經卷第四¶
 ¶
 梁扶南三藏僧伽婆羅譯¶
 
-4鳩那羅因緣
-:PROPERTIES:
-:head: 鳩那羅因緣第四
-:END:
-¶
+鳩那羅因緣第四¶
 
 是時阿育王。於一日中起八萬四千塔。於是¶
 日中王夫人名鉢摩婆底(翻有扶容華也)生一男兒。¶
@@ -663,7 +658,7 @@
 屋。以火焚之。又復令殺德叉尸羅人。是時¶
 比丘生疑問大德優波笈多。鳩那羅先造何¶
 業今受此報。大德答言。長老當聽。過去久¶
-遠。於波羅㮈國有一獵師。至雪山中多殺群¶
+遠。於波羅[木*奈]國有一獵師。至雪山中多殺群¶
 鹿。又於一時復往雪山時雷電霹靂有五百¶
 鹿。以怖畏故。入石窟中。時此獵師見諸群鹿。¶
 即便捕之一切皆得。得已復作是念。若皆殺¶
